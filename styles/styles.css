@@ -1,0 +1,16 @@
+.container {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  padding: 0.5rem 0.75rem;
+  background: #4963fa;
+  color: aliceblue;
+  border: none;
+}
+.btn:hover {
+  cursor: pointer;
+  background: #3351f8;
+}
